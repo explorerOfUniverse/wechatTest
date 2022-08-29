@@ -9,6 +9,7 @@ import random
 nowtime = datetime.utcnow() + timedelta(hours=8)  # 东八区时间
 today = datetime.strptime(str(nowtime.date()), "%Y-%m-%d") #今天的日期
 
+text = os.getenv('TEXT')
 start_date = os.getenv('START_DATE')
 city = os.getenv('CITY')
 birthday = os.getenv('BIRTHDAY')
@@ -96,6 +97,10 @@ data = {
   "city": {
     "value": city,
     "color": get_random_color()
+  },
+  "text": {
+    "value": text,
+    "color": '#FF1493'
   },
   "date": {
     "value": today.strftime('%Y年%m月%d日'),
