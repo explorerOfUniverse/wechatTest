@@ -104,11 +104,11 @@ data = {
   },
   "date": {
     "value": today.strftime('%Y年%m月%d日'),
-    "color": get_random_color()
+    "color": '#FF7F50'
   },
   "week_day": {
     "value": get_week_day(),
-    "color": get_random_color()
+    "color": '#FF7F50'
   },
   "weather": {
     "value": weather['weather'],
