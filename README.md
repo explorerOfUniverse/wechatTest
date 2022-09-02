@@ -12,7 +12,7 @@
 <img src="https://github.com/1012015643/daily_morning/blob/master/img/img_1.jpg" width="300px" />
 
 首先，按图搜索，测试号，进来之后微信扫码登录！
-<img src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.png" width="300px" />
+<img width="1471" src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.png" width="300px" />
 
 按图点击 Fork，创建到自己的仓库下！
 <img width="1471" alt="image" src="https://github.com/1012015643/daily_morning/blob/master/img/img_3.png">
