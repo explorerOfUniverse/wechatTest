@@ -21,12 +21,13 @@
 ![71bf9d11a876d23ef0f0728645a8ba0](https://github.com/1012015643/daily_morning/blob/master/img/img_4.png)
 ![381e8ee4a7c5ec6b8c09719f2c7e486](https://github.com/1012015643/daily_morning/blob/master/img/img_5.png)
 ![48c60750cec7adc546e0ad99e3082b3](https://github.com/1012015643/daily_morning/blob/master/img/img_6.png)
+![48c60750cec7adc546e0ad99e3082b3](https://github.com/1012015643/daily_morning/blob/master/img/img_7.png)
 
 启用自己项目下的 Action！
-![30a5b1b2b06ba4a40a3d8ef01652409](https://user-images.githubusercontent.com/9566402/183242334-9943c538-ba3d-4d01-8377-d040143b7560.png)
+![30a5b1b2b06ba4a40a3d8ef01652409](https://github.com/1012015643/daily_morning/blob/master/img/img_9.png)
 
 如果运行出现错误，按以下方法可以看到错误，在这里 issue 提问也可以，在小红书群里问也可以
-![6b0da6f44e18c2bfd94910c377d13e6](https://user-images.githubusercontent.com/9566402/183242349-1aa5ada6-2ee7-4cf9-a542-4b2dad88b8fe.png)
+![6b0da6f44e18c2bfd94910c377d13e6](https://github.com/1012015643/daily_morning/blob/master/img/img_10.png)
 
 启用后可以直接运行，看看女朋友的手机有没有收到推送吧！
 这个定时任务是每天早晨8点推送，如果会编程的同学可以自己自定义一些东西～
