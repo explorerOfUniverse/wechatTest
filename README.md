@@ -15,7 +15,7 @@
 <img width="1471" src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.png" width="300px" />
 
 按图点击 Fork，创建到自己的仓库下！
-<img width="1471" alt="image" src="https://github.com/1012015643/daily_morning/blob/master/img/img_3.png">
+<img width="1471" alt="image" src="https://github.com/1012015643/morning/blob/master/img/img_3-1.png">
 
 按下图，创建模板，设置变量，把微信公众平台上的各种字符串按说明创建到 GitHub -> Settings -> Secrets -> Actions 中。
 ![71bf9d11a876d23ef0f0728645a8ba0](https://github.com/1012015643/daily_morning/blob/master/img/img_4.png)
