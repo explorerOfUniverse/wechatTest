@@ -9,7 +9,7 @@
 在我刚想构思这个教程怎么让不懂编程的朋友很快入门的时候，我考虑到：避免服务器搭建，避免定时任务，避免接触代码。在经历过各种思考后，觉得可以用 Github Actions 来白嫖。。
 
 效果如图。当然，文字是可以修改的。
-<img src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.jpg" width="300px" />
+<img src="https://github.com/1012015643/daily_morning/blob/master/img/img_1.jpg" width="300px" />
 
 首先，按图搜索，测试号，进来之后微信扫码登录！
 <img src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.png" width="300px" />
@@ -18,9 +18,9 @@
 <img width="1471" alt="image" src="https://github.com/1012015643/daily_morning/blob/master/img/img_3.png">
 
 按下图，创建模板，设置变量，把微信公众平台上的各种字符串按说明创建到 GitHub -> Settings -> Secrets -> Actions 中。
-![71bf9d11a876d23ef0f0728645a8ba0](https://user-images.githubusercontent.com/9566402/183242301-fd6ab30e-bfe5-4245-b2a9-f690184db307.png)
-![381e8ee4a7c5ec6b8c09719f2c7e486](https://user-images.githubusercontent.com/9566402/183242295-4dcf06bb-2083-4883-8745-0af753ca805c.png)
-![48c60750cec7adc546e0ad99e3082b3](https://user-images.githubusercontent.com/9566402/183242320-18500adc-14e5-4522-a3ad-ae19cc4479bf.png)
+![71bf9d11a876d23ef0f0728645a8ba0](https://github.com/1012015643/daily_morning/blob/master/img/img_4.png)
+![381e8ee4a7c5ec6b8c09719f2c7e486](https://github.com/1012015643/daily_morning/blob/master/img/img_5.png)
+![48c60750cec7adc546e0ad99e3082b3](https://github.com/1012015643/daily_morning/blob/master/img/img_6.png)
 
 启用自己项目下的 Action！
 ![30a5b1b2b06ba4a40a3d8ef01652409](https://user-images.githubusercontent.com/9566402/183242334-9943c538-ba3d-4d01-8377-d040143b7560.png)
@@ -47,7 +47,7 @@ ps. 有一些注意事项在此补充
 
 ## 自我推广
 
-<img src="https://user-images.githubusercontent.com/9566402/186464691-61529ffc-e5e8-42d6-8f39-1516ca4d3738.jpg" width="300px" />
+<img src="https://github.com/1012015643/daily_morning/blob/master/img/img.jpg" width="300px" />
 
 如果觉得这个项目对你有用，欢迎给我买杯咖啡
 
