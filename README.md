@@ -9,13 +9,13 @@
 在我刚想构思这个教程怎么让不懂编程的朋友很快入门的时候，我考虑到：避免服务器搭建，避免定时任务，避免接触代码。在经历过各种思考后，觉得可以用 Github Actions 来白嫖。。
 
 效果如图。当然，文字是可以修改的。
-<img src="https://user-images.githubusercontent.com/9566402/183242263-c93517a2-5377-435d-8386-8d47252c9e07.jpg" width="300px" />
+<img src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.jpg" width="300px" />
 
 首先，按图搜索，测试号，进来之后微信扫码登录！
-![cf7dbd4502df44765ed3506f55caea5](https://user-images.githubusercontent.com/9566402/183242272-134e37e7-718d-42dd-9ed7-fca2810e94e6.png)
+<img src="https://github.com/1012015643/daily_morning/blob/master/img/img_2.png" width="300px" />
 
 按图点击 Fork，创建到自己的仓库下！
-<img width="1471" alt="image" src="https://user-images.githubusercontent.com/9566402/186087195-d1f2c124-1b59-4ea8-93dc-0b1e31a2e754.png">
+<img width="1471" alt="image" src="https://github.com/1012015643/daily_morning/blob/master/img/img_3.png">
 
 按下图，创建模板，设置变量，把微信公众平台上的各种字符串按说明创建到 GitHub -> Settings -> Secrets -> Actions 中。
 ![71bf9d11a876d23ef0f0728645a8ba0](https://user-images.githubusercontent.com/9566402/183242301-fd6ab30e-bfe5-4245-b2a9-f690184db307.png)
