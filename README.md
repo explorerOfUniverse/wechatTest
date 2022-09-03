@@ -26,7 +26,7 @@
 启用自己项目下的 Action！
 ![30a5b1b2b06ba4a40a3d8ef01652409](https://github.com/1012015643/daily_morning/blob/master/img/img_9.png)
 
-如果运行出现错误，按以下方法可以看到错误，在这里 issue 提问也可以，在小红书群里问也可以
+如果运行出现错误，按以下方法可以看到错误，在这里 issue 提问也可以，在抖音粉丝群里问也可以
 ![6b0da6f44e18c2bfd94910c377d13e6](https://github.com/1012015643/daily_morning/blob/master/img/img_10.png)
 
 启用后可以直接运行，看看女朋友的手机有没有收到推送吧！
