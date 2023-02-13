@@ -88,11 +88,11 @@ except WeChatClientException as e:
   print('微信获取 token 失败，请检查 APP_ID 和 APP_SECRET，或当日调用量是否已达到微信限制。')
   exit(502)
 
-wm = WeChatMessage(client)
-weather = get_weather()
-if weather is None:
-  print('获取天气失败')
-  exit(422)
+# wm = WeChatMessage(client)
+# weather = get_weather()
+# if weather is None:
+#   print('获取天气失败')
+#   exit(422)
 data = {
   "city": {
     "value": city,
@@ -110,38 +110,38 @@ data = {
     "value": get_week_day(),
     "color": '#FF7F50'
   },
-  "weather": {
-    "value": weather['weather'],
-    "color": get_random_color()
-  },
-  "humidity": {
-    "value": weather['humidity'],
-    "color": get_random_color()
-  },
-  "wind": {
-    "value": weather['wind'],
-    "color": get_random_color()
-  },
-  "air_data": {
-    "value": weather['airData'],
-    "color": get_random_color()
-  },
-  "air_quality": {
-    "value": weather['airQuality'],
-    "color": get_random_color()
-  },
-  "temperature": {
-    "value": math.floor(weather['temp']),
-    "color": get_random_color()
-  },
-  "highest": {
-    "value": math.floor(weather['high']),
-    "color": get_random_color()
-  },
-  "lowest": {
-    "value": math.floor(weather['low']),
-    "color": get_random_color()
-  },
+#   "weather": {
+#     "value": weather['weather'],
+#     "color": get_random_color()
+#   },
+#   "humidity": {
+#     "value": weather['humidity'],
+#     "color": get_random_color()
+#   },
+#   "wind": {
+#     "value": weather['wind'],
+#     "color": get_random_color()
+#   },
+#   "air_data": {
+#     "value": weather['airData'],
+#     "color": get_random_color()
+#   },
+#   "air_quality": {
+#     "value": weather['airQuality'],
+#     "color": get_random_color()
+#   },
+#   "temperature": {
+#     "value": math.floor(weather['temp']),
+#     "color": get_random_color()
+#   },
+#   "highest": {
+#     "value": math.floor(weather['high']),
+#     "color": get_random_color()
+#   },
+#   "lowest": {
+#     "value": math.floor(weather['low']),
+#     "color": get_random_color()
+#   },
   "love_days": {
     "value": get_memorial_days_count(),
     "color": get_random_color()
