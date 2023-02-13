@@ -93,23 +93,23 @@ wm = WeChatMessage(client)
 # if weather is None:
 #   print('获取天气失败')
 #   exit(422)
-# data = {
-#   "city": {
-#     "value": city,
-#     "color": get_random_color()
-#   },
-#   "text": {
-#     "value": text,
-#     "color": '#FF1493'
-#   },
-#   "date": {
-#     "value": today.strftime('%Y年%m月%d日'),
-#     "color": '#FF7F50'
-#   },
-#   "week_day": {
-#     "value": get_week_day(),
-#     "color": '#FF7F50'
-#   },
+data = {
+  "city": {
+    "value": city,
+    "color": get_random_color()
+  },
+  "text": {
+    "value": text,
+    "color": '#FF1493'
+  },
+  "date": {
+    "value": today.strftime('%Y年%m月%d日'),
+    "color": '#FF7F50'
+  },
+  "week_day": {
+    "value": get_week_day(),
+    "color": '#FF7F50'
+  },
 #   "weather": {
 #     "value": weather['weather'],
 #     "color": get_random_color()
@@ -130,31 +130,31 @@ wm = WeChatMessage(client)
 #     "value": weather['airQuality'],
 #     "color": get_random_color()
 #   },
-#   "temperature": {
-#     "value": math.floor(weather['temp']),
-#     "color": get_random_color()
-#   },
-#   "highest": {
-#     "value": math.floor(weather['high']),
-#     "color": get_random_color()
-#   },
-#   "lowest": {
-#     "value": math.floor(weather['low']),
-#     "color": get_random_color()
-#   },
-#   "love_days": {
-#     "value": get_memorial_days_count(),
-#     "color": get_random_color()
-#   },
-#   "birthday_left": {
-#     "value": get_birthday_left(),
-#     "color": get_random_color()
-#   },
-#   "words": {
-#     "value": get_words(),
-#     "color": get_random_color()
-#   },
-# }
+  "temperature": {
+    "value": math.floor(weather['temp']),
+    "color": get_random_color()
+  },
+  "highest": {
+    "value": math.floor(weather['high']),
+    "color": get_random_color()
+  },
+  "lowest": {
+    "value": math.floor(weather['low']),
+    "color": get_random_color()
+  },
+  "love_days": {
+    "value": get_memorial_days_count(),
+    "color": get_random_color()
+  },
+  "birthday_left": {
+    "value": get_birthday_left(),
+    "color": get_random_color()
+  },
+  "words": {
+    "value": get_words(),
+    "color": get_random_color()
+  },
+}
 
 if __name__ == '__main__':
   count = 0
