@@ -89,10 +89,10 @@ except WeChatClientException as e:
   exit(502)
 
 wm = WeChatMessage(client)
-weather = get_weather()
-if weather is None:
-  print('获取天气失败')
-  exit(422)
+# weather = get_weather()
+# if weather is None:
+#   print('获取天气失败')
+#   exit(422)
 data = {
   "city": {
     "value": city,
